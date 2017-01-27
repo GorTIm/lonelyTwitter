@@ -19,4 +19,7 @@ public class NormalTweet extends Tweet {
     public Boolean isImportant(){
         return false;
     }
+
+
+
 }
